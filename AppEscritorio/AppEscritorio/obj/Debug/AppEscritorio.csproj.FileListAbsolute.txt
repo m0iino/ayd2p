@@ -1,0 +1,11 @@
+c:\users\moino\source\repos\AppEscritorio\AppEscritorio\bin\Debug\AppEscritorio.exe.config
+c:\users\moino\source\repos\AppEscritorio\AppEscritorio\bin\Debug\AppEscritorio.exe
+c:\users\moino\source\repos\AppEscritorio\AppEscritorio\bin\Debug\AppEscritorio.pdb
+c:\users\moino\source\repos\AppEscritorio\AppEscritorio\obj\Debug\AppEscritorio.csprojAssemblyReference.cache
+c:\users\moino\source\repos\AppEscritorio\AppEscritorio\obj\Debug\AppEscritorio.Form1.resources
+c:\users\moino\source\repos\AppEscritorio\AppEscritorio\obj\Debug\AppEscritorio.FormMesa.resources
+c:\users\moino\source\repos\AppEscritorio\AppEscritorio\obj\Debug\AppEscritorio.Properties.Resources.resources
+c:\users\moino\source\repos\AppEscritorio\AppEscritorio\obj\Debug\AppEscritorio.csproj.GenerateResource.cache
+c:\users\moino\source\repos\AppEscritorio\AppEscritorio\obj\Debug\AppEscritorio.csproj.CoreCompileInputs.cache
+c:\users\moino\source\repos\AppEscritorio\AppEscritorio\obj\Debug\AppEscritorio.exe
+c:\users\moino\source\repos\AppEscritorio\AppEscritorio\obj\Debug\AppEscritorio.pdb
